@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dj-991&label=Profile%20views&color=0e75b6&style=flat" alt="dj-991" /> </p>
 
-- 🔭 I’m currently working on **Virtusa**
+- 🔭 I’m currently working on **Capgemini**
 
 - 🌱 I’m currently learning **Frameworks, Certifications**
 
